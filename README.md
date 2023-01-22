@@ -19,4 +19,5 @@ These commands provide different ways to extract new fields from search results.
 # Modify fields and field values
 Use these commands to modify fields or their values.
 
-![Fields 3](https://user-images.githubusercontent.com/61907439/213928155-8f4be529-e652-43cf-bce7-73201b75b1a2.png)
+
+![Fields 3](https://user-images.githubusercontent.com/61907439/213928235-7ce1fa99-079c-4398-bcde-412e11a87a55.png)

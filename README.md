@@ -1,5 +1,7 @@
 # Splunk Search Commands
 
+# FIELDS
+
 
 In Splunk, the "fields" command is used to extract and manipulate specific fields within the data being searched. This command can be used to extract fields that are already present in the data, as well as to create new fields based on the values of existing fields.
 
